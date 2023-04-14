@@ -14,7 +14,7 @@
 
 </h4>
 <br>
-<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taktischer&show_icons=true&locale=en&layout=compact&theme=compact" alt="taktischer"/>
+<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taktischer&show_icons=true&locale=en&layout=compact&theme=dark" alt="taktischer"/>
 <br>
 <br>
 <br>
