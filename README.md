@@ -24,11 +24,11 @@
 <br>
 <h3> 👤 My other profiles:</h3>
 
-- <a href="https://stackoverflow.com/users/18080203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="taktischer" height="30" width="40" /></a> <h4>stackoverflow</h4>
+- <a href="https://stackoverflow.com/users/18080203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="taktischer" height="30" width="40" /></a> <b>stackoverflow</b>
 
-- <a href="https://www.hackerrank.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taktischer" height="30" width="40" /></a> <h4>hackerrank</h4>
+- <a href="https://www.hackerrank.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taktischer" height="30" width="40" /></a> <b>hackerrank</b>
 
-- <a href="https://www.leetcode.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taktischer" height="30" width="40" /></a> <h4>leetcode</h4>
+- <a href="https://www.leetcode.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taktischer" height="30" width="40" /></a> <b>leetcode</b>
 
 <br>
 
