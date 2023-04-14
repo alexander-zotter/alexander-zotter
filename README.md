@@ -22,6 +22,15 @@
 <br>
 <br>
 <br>
+<h3> 👤 My other profiles:</h3>
+
+- <a href="https://stackoverflow.com/users/18080203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="taktischer" height="30" width="40" /></a> stackoverflow
+
+- <a href="https://www.hackerrank.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taktischer" height="30" width="40" /></a> hackerrank
+
+- <a href="https://www.leetcode.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taktischer" height="30" width="40" /></a> leetcode
+
+
 <h3> 📌 Languages & Projects<h3>
 
 
