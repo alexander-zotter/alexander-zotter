@@ -3,7 +3,7 @@
 <img alt="coding gif" align="left" width="50%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wn0v6oxl0clmcxd39abdnv9wef0i2njsh9clxltd&rid=giphy.gif&ct=g">
 
 
-# 📒 About me
+<h3>&nbsp;📒 About me<h3>
 <h4>
   
   &nbsp; 🏫 Student at the Higher Technical College Graz-Gösting (Bulme)
@@ -22,7 +22,7 @@
 <br>
 <br>
 <br>
-# 📌 Languages & Projects
+<h3> 📌 Languages & Projects<h3>
 
 
   <h3>
