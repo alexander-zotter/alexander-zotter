@@ -28,7 +28,8 @@
 
 - <a href="https://www.hackerrank.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taktischer" height="24" width="32" /><b> hackerrank</b></a> 
 
-- <a href="https://www.leetcode.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taktischer" height="24" width="32" /><b> leetcode</b></a> 
+- <a href="https://www.leetcode.com/taktischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taktischer" height="24" width="32" /><b> leetcode</b></a> <br>
+<img style="display: flex; margin: auto" src="https://leetcard.jacoblin.cool/taktischer?theme=dark">
 
 <br>
 
